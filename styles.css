@@ -41,7 +41,7 @@ body {
 }
 
 ::-webkit-scrollbar {
-	width: 17px;
+	width: 15px;
 	background-color: var(--color-primary);
 }
 
