@@ -200,7 +200,6 @@ h6 {
 	line-height: 150%;
 }
 
-/* toggle */
 .toggle {
 	cursor: pointer;
 	display: inline-block;
@@ -251,9 +250,6 @@ h6 {
 	visibility: hidden;
 }
 
-/* fim - toggle */
-
-/* dropdown */
 .dropdown-container {
 	position: relative;
 }
@@ -294,17 +290,12 @@ h6 {
 	gap: 0.8rem;
 }
 
-/* fim - dropdown */
-
-
-/* Para Tablets */
 @media (max-width: 1024px) and (min-width: 768px) {
 	.app__section-banner-container {
 		width: 48rem;
 	}
 }
 
-/* Para Celulares */
 @media (max-width: 767px) {
 	.app__section-banner-container {
 		width: 32rem;
@@ -326,7 +317,6 @@ h6 {
 .hidden {
 	display: none;
 }
-
 
 .app__section-task-container {
 	display: flex;
