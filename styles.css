@@ -40,21 +40,6 @@ body {
 	background-repeat: no-repeat;
 }
 
-::-webkit-scrollbar {
-	width: 15px;
-	background-color: var(--color-primary);
-}
-
-::-webkit-scrollbar-thumb {
-	background-color: var(--lils);
-	border-radius: 6px;
-}
-
-::-webkit-scrollbar-track {
-	background-color: var(--color-primary);
-	border-radius: 6px;
-}
-
 h1,
 h2,
 h3,
